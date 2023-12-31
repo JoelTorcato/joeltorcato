@@ -1,4 +1,4 @@
-<p align="center">hello! my name is <strong>joel pedro torcato fernandes</strong>, i'm 15 years old, and i'm taking an information systems course, my dream is to be a full stack developer.</p>
+<p align="center">hello! my name is <strong>joel pedro torcato fernandes</strong>, i'm 15 years old, and i'm taking an information systems course, my dream is to be a <strong>full stack developer.</strong></p>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JOELTORCATO&theme=radical&mode=weekly" />
