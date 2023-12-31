@@ -1,9 +1,8 @@
-<p align="center">hello! my name is <strong>joel pedro torcato fernandes</strong>, i'm 15 years old, and i'm taking an information systems course, my dream is to be a full stack developer</p>
+<p align="center">hello! my name is <strong>joel pedro torcato fernandes</strong>, i'm 15 years old, and i'm taking an information systems course, my dream is to be a full stack developer.</p>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JOELTORCATO&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-JOELTORCATO.vercel.app/api/top-langs/?username=JOELTORCATO&show_icons=true&theme=radical&layout=compact" />
- </div>
+</div>
 
 #### MY MAIN SKILLS:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
