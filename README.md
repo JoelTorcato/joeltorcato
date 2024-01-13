@@ -1,4 +1,4 @@
-<p align="center">hello! my name is <strong>joel pedro torcato fernandes</strong>, i'm 15 years old, and i'm taking an information systems course, my dream is to be a <strong>full stack developer.</strong></p>
+<p align="center">hello! meu nome é <strong>joel pedro torcato fernandes</strong>, tenho 15 anos e estou cursando sistemas de informação, meu sonho é ser um <strong>desenvolvedor full stack.</strong></p>
 
 #### MY MAIN SKILLS:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
