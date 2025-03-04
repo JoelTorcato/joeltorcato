@@ -1,12 +1,12 @@
-# Olá, eu sou o Joel Torcato! 👨‍💻
+# Alô, eu sou o Joel Torcato! 👨‍💻
 
 Desenvolvedor backend focado em criar soluções eficientes e escaláveis. Estou sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades.
 
 ## 🔧 Ferramentas & Tecnologias (Backend)
 
 - **Linguagens**: C, JavaScript, TypeScript
-- **Frameworks**: Node.js, Fastify, Bun, Elysia.js
-- **Banco de Dados**: PostgreSQL, MongoDB, Redis
+- **Frameworks**: Node.js (Fastify), Bun (Elysia.js)
+- **Banco de Dados**: PostgreSQL, Redis, MongoDB
 
 ## 🚀 Projetos Atuais
 
