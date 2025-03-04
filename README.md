@@ -1,19 +1,17 @@
 # Olá, eu sou o Joel Torcato! 👨‍💻
 
-Sou um apaixonado por **desenvolvimento backend** e estou a aprimorar minhas habilidades para me tornar um especialista em programação de servidores e APIs.
+Desenvolvedor backend focado em criar soluções eficientes e escaláveis. Estou sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades.
 
 ## 🔧 Ferramentas & Tecnologias (Backend)
 
 - **Linguagens**: C, C#, JavaScript, TypeScript
 - **Frameworks**: Node.js, Fastify, Bun, Elysia.js
 - **Banco de Dados**: PostgreSQL, MongoDB, Redis
-- **Autenticação**: Firebase Auth, JWT
-- **Outros**: Docker, Prisma, AWS
 
 ## 🚀 Projetos Atuais
 
-### 1. [**Clion**](https://github.com/joeltorcato/clion)
-Repositório com todos os meus projetos em **C**, desde exercícios simples até desafios mais complexos.
+### 1. [**C**](https://github.com/joeltorcato/C)
+Este é um projeto com todos os códigos feitos por mim, na aula de programação.
 
 ## 📊 Estatísticas do GitHub
 
@@ -26,10 +24,15 @@ Repositório com todos os meus projetos em **C**, desde exercícios simples até
 
 ## 📱 Redes Sociais
 
-<a href="https://www.linkedin.com/in/joeltorcato/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
+<div>
+  <a href="https://www.instagram.com/joeltorcato/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/joeltorcato/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
 
 ---
 
-🌱 A caminho de me tornar um expert em backend. Vamos codificar juntos! 💻
+🌱 Em constante evolução como desenvolvedor backend. Vamos codificar juntos! 💻
