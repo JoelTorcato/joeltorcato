@@ -4,7 +4,7 @@ Desenvolvedor backend focado em criar soluções eficientes e escaláveis. Estou
 
 ## 🔧 Ferramentas & Tecnologias (Backend)
 
-- **Linguagens**: C, C#, JavaScript, TypeScript
+- **Linguagens**: C, JavaScript, TypeScript
 - **Frameworks**: Node.js, Fastify, Bun, Elysia.js
 - **Banco de Dados**: PostgreSQL, MongoDB, Redis
 
