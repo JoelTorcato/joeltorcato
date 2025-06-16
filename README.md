@@ -48,12 +48,4 @@ Reúne todos os meus códigos feitos em aula e de forma autodidata na linguagem 
 
 ---
 
-## 🐍 Snake Contribution Animation
-
-<p align="center">
-  <img src="https://github.com/joeltorcato/joeltorcato/blob/output/dist/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
-
----
-
 <p align="center">🌱 Em constante evolução. Vamos codar juntos!</p>
